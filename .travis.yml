@@ -4,4 +4,4 @@ python:
   - "3.5"
  
 script: 
-  - python 1aula_agenda.py < testing.txt
+  - python 1aula_agenda.py < test.txt
